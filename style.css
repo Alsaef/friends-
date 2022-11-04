@@ -1,0 +1,10 @@
+body { background: linear-gradient(45deg, red, lightGreen);
+    text-align: center;
+    border: solid;
+}
+img {
+    height: 90px;
+}
+div{border: solid 1px;
+    margin-top: 10px;}
+   a{color: white;}
